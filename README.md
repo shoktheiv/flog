@@ -1,2 +1,3 @@
 # flog
-my 2025 Brackeys Game Jam Submission 
+<h1>flog.</h1>
+Play the game at: https://shoktheiv.itch.io/flog
